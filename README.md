@@ -1,17 +1,18 @@
 # Matplotlib_Challenge
 
-##Overview
+## Overview
 We have received some data on a recent animal study from the fictitious pharmaceutical company, Pymaceuticals. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens in treating a form of skin cancer.
 
-##Objective
+## Objective
 Use the mice meta-data and study results data we received and develop the findings to prepare, summarize, develop tables, and provide some observations for a report on the study’s results.
 
-##Tools 
+## Tools 
 We completed the analysis with the following tools:
 * Python
 * Panda
 * Matplotlib
-##Accomplishments
+
+## Accomplishments
 * Combined both data sources and cleaned out any bad data.
 * Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 * Developed plots to visually display the demographics of the mice in the study 
